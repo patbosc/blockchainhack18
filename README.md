@@ -1,1 +1,1 @@
-# blockchainhack18
+# Block Chain Hackfest im Mai 2018
